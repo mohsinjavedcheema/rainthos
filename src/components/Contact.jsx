@@ -62,7 +62,7 @@ const ContactSection = () => {
                 <h4 className="text-lg font-semibold text-gray-800 mb-4">Follow Us</h4>
                 <div className="flex gap-6">
                   {[
-                    { icon: Linkedin, color: 'text-blue-600', link: 'https://www.linkedin.com/company/devopsiq/' },
+                    { icon: Linkedin, color: 'text-blue-600', link: 'https://www.linkedin.com/company/rainthos/' },
                     { icon: Twitter, color: 'text-sky-500', link: '#' },
                     { icon: Github, color: 'text-gray-800', link: '#' }
                   ].map((SocialIcon, index) => (

@@ -162,23 +162,7 @@ const TeamSection = () => {
       technologies: ["Jenkins", "Docker", "Git", "Kubernetes", "Python"],
       background: "from-indigo-400 to-blue-400",
     },
-    {
-      name: "Aleem",
-      role: "Software Tester",
-      profilePicture: "https://res.cloudinary.com/dgcankmpu/image/upload/v1738677110/Aleem_Sultan_ih6tct.png",
-      expertise: [
-        "Quality Assurance",
-        "Test Automation",
-        "Bug Tracking",
-        "Regression Testing",
-        "Performance Testing"
-      ],
-      impact: "Ensuring software quality through comprehensive testing strategies and automation.",
-      experience: "Mid Level",
-      level: "Mid",
-      technologies: ["Selenium", "Jest", "Cypress", "Postman", "JMeter"],
-      background: "from-cyan-500 to-blue-500",
-    },
+    
     {
       name: "Maham",
       role: "Marketing and Business Developer",
