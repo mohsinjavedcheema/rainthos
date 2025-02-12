@@ -1,2 +1,9 @@
 name = "rainthos"
-pages_build_output_dir = "./build"
+type = "javascript"
+
+account_id = "4306b667b7f2267b6e4ba90234a24761"
+workers_dev = true
+
+[site]
+bucket = "./build"
+
