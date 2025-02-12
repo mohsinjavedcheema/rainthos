@@ -1,7 +1,7 @@
 # Use official Nginx image
 FROM nginx:alpine
 
-LABEL maintainer="mohsinjavedcheema"
+LABEL maintainer="Mohsin Javed Cheema"
 
 # Copy the build output to the Nginx HTML directory
 COPY build /usr/share/nginx/html
