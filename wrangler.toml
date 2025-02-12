@@ -1,3 +1,2 @@
 name = "rainthos"
-compatibility_date = "2025-02-13"
-assets = { directory = "build" }
+pages_build_output_dir = "./build"
