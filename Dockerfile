@@ -1,3 +1,5 @@
+MAINTAINER mohsinjavedcheema
+
 # Use official Nginx image
 FROM nginx:alpine
 
